@@ -1,0 +1,18 @@
+.PedidosLista {
+    padding: 2rem;
+    background: white;
+    border: 1px solid #e1e1e1;
+    color: black;
+    margin-bottom: 20px;
+    width: 290px;
+    border-radius: 1rem;
+  }
+  .PedidosLista p {
+    font-weight: bold;
+    margin-bottom: .8rem;
+  }
+
+  .PedidosLista p span {
+    font-weight: normal;
+
+  }

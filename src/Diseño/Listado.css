@@ -1,0 +1,46 @@
+.Listado {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.Listado h2 {
+  margin-bottom: 20px;
+}
+
+.contadores {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.contadores p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.filtro {
+  margin-bottom: 20px;
+}
+
+.filtro label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.filtro select {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.pedidos-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+}
